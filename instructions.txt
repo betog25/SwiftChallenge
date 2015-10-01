@@ -1,0 +1,4 @@
+In the programming language of your choice, write a program that counts from 0
+to 100, prints "Fizz" every time the count is a multiple of 3, prints "Buzz"
+every time the count is a multiple of 5, and prints the count otherwise. Bonus
+points if you add testing, documentation, and/or upload your code to GitHub.
